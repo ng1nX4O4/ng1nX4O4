@@ -1,0 +1,2 @@
+#/usr/bin/bash
+java -jar /usr/share/signapk/signapk.jar /opt/publickey.x509.pem /opt/publickey.pk8 $@

@@ -1,0 +1,5 @@
+#!/bin/bash
+startubuntu << EOF
+apktool $@
+EOF
+
