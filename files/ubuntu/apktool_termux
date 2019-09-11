@@ -2,4 +2,3 @@
 startubuntu << EOF
 apktool $@
 EOF
-
